@@ -51,4 +51,4 @@ g++ -std=c++11 worker_schedule_intersection.cpp -o worker_schedule_intersection
 
 ## License
 
-MIT
+[MIT](https://github.com/rudxkush/WorkerScheduleIntersection/blob/main/LICENSE)
